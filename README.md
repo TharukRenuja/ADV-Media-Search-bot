@@ -77,7 +77,7 @@ logger - Get log file
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * Original [Repo](https://github.com/Mahesh/Media-Search-bot)
-* Modified v1 [Modv1 Repo](https://github.com/subin/Media-Search-bot)
+* Modified v1 [Modv1 Repo](https://github.com/subinps/Media-Search-bot)
 
 
 ## Support
